@@ -1,6 +1,6 @@
 #pragma once
-#include <iostream>
 #include <initializer_list>
+#include <algorithm>
 
 //Namespace hemu
 namespace hemu
